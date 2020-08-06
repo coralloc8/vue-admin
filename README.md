@@ -6,4 +6,4 @@
 
 基于上述开源项目，再结合后端，进行二次开发而成
 
-附带 vscode 代码编码配置(./README.vscode.md)
+附带 [vscode代码编码配置](./README.vscode.md)
